@@ -5,7 +5,7 @@ page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for homeowners who want to learn about their
+  WOW is the ultimate spot for homeowners who want to learn about their
   wood's origin and support the farmers that grew it. We take stain production,
   applying and maintaining seriously and we’re glad to pass that knowledge to
   anyone.
